@@ -26,7 +26,7 @@ Uma estação inteligente com ESP32 que monitora postura, luminosidade e ambient
 - `ErgoSense/Usuario1/status`: Status geral ("Trabalhando", "Em Pausa", "Postura Ruim").
 
 ## Circuito
-![Diagrama do Circuito](docs/diagrama_schematic.png)
+![Diagrama do Circuito](;)
 
 ## Código Fonte
 O código principal está em `src/ErgoSense.ino`.
