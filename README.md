@@ -30,3 +30,6 @@ Uma estação inteligente com ESP32 que monitora postura, luminosidade e ambient
 
 ## Código Fonte
 O código principal está em `src/ErgoSense.ino`.
+
+## Link Wokwi
+[ErgoSense Wokwi Simulação](https://wokwi.com/projects/448012434710937601)
